@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.993131, 30.268888] },
+      "properties": { "name": "CSIT_MAIN_GATE", "type": "gate", "label": "CSIT Main Gate" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.993890, 30.267942] },
+      "properties": { "name": "GEU_MAIN_GROUND", "type": "ground", "label": "GEU Main Ground" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.994122, 30.267671] },
+      "properties": { "name": "CS_AZAD_HOSTEL", "type": "hostel", "label": "Chandra Shekhar Azad Hostel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995146, 30.267492] },
+      "properties": { "name": "BTECH_BLOCK", "type": "academic", "label": "B.Tech Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995590, 30.267650] },
+      "properties": { "name": "ARYA_BHATT_BLOCK", "type": "academic", "label": "Arya Bhatt Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995957, 30.267974] },
+      "properties": { "name": "VISHWKARMA_BLOCK", "type": "academic", "label": "Vishwkarma Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.996772, 30.268304] },
+      "properties": { "name": "VISHWKARMA_ENTRANCE_2", "type": "entrance", "label": "Vishwkarma Block Entrance 2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995986, 30.268174] },
+      "properties": { "name": "GIRLS_HOSTEL_A", "type": "hostel", "label": "Girls Hostel (A)" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.996590, 30.267832] },
+      "properties": { "name": "OLD_MCA_BLOCK", "type": "academic", "label": "Old MCA Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.996465, 30.267846] },
+      "properties": { "name": "QUICK_BITES_CAFE", "type": "canteen", "label": "Quick Bites Cafe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.996867, 30.267689] },
+      "properties": { "name": "CHANAKYA_BLOCK", "type": "academic", "label": "Chanakya Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.996712, 30.267934] },
+      "properties": { "name": "KP_NAUTIYAL_BLOCK", "type": "academic", "label": "KP Nautiyal Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.997270, 30.268329] },
+      "properties": { "name": "GATE2_PARKING", "type": "parking", "label": "Gate 2 Parking" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.997751, 30.268609] },
+      "properties": { "name": "GATE2", "type": "gate", "label": "Gate 2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.997668, 30.268464] },
+      "properties": { "name": "GATE2_BUS_STAND", "type": "bus_stand", "label": "Gate 2 Bus Stand" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995872, 30.267577] },
+      "properties": { "name": "PARAM_LAB", "type": "lab", "label": "Param Lab" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995671, 30.267463] },
+      "properties": { "name": "LIBRARY", "type": "library", "label": "Santosh Anand Library" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995793, 30.267123] },
+      "properties": { "name": "BASKETBALL_COURT", "type": "sports", "label": "Basketball Court" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.994505, 30.267304] },
+      "properties": { "name": "RAVI_CANTEEN", "type": "canteen", "label": "Ravi Canteen" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.994624, 30.267411] },
+      "properties": { "name": "HAPPINESS_HUT_CAFE", "type": "canteen", "label": "Happiness Hut Cafe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995569, 30.267095] },
+      "properties": { "name": "CIVIL_BLOCK", "type": "academic", "label": "Civil Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.995567, 30.267300] },
+      "properties": { "name": "ELECTRICAL_BLOCK", "type": "academic", "label": "Electrical Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.994770, 30.268553] },
+      "properties": { "name": "GATE1", "type": "gate", "label": "Gate 1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.994929, 30.268424] },
+      "properties": { "name": "STATIONARY_GATE1", "type": "shop", "label": "Stationary Gate 1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.994020, 30.267767] },
+      "properties": { "name": "SARDAR_PATEL_HOSTEL", "type": "hostel", "label": "Sardar Patel Hostel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.993962, 30.267869] },
+      "properties": { "name": "LAXMI_BAI_HOSTEL", "type": "hostel", "label": "Laxmi Bai Hostel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.993418, 30.268616] },
+      "properties": { "name": "CSIT_ENTRANCE_1", "type": "entrance", "label": "CSIT Entrance 1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.993029, 30.269298] },
+      "properties": { "name": "PARAMEDICAL_BLOCK", "type": "academic", "label": "Paramedical Block" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.993514, 30.268868] },
+      "properties": { "name": "CSIT_PARKING", "type": "parking", "label": "CSIT Parking" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.996296, 30.267784] },
+      "properties": { "name": "PETROLEUM_BLOCK", "type": "academic", "label": "Petroleum Block" }
+    }
+  ]
+}

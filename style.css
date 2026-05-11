@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+#map {
+    width: 80vw;
+    height: 70vh;
+    margin: 0 auto;
+    border: 2px solid #444;
+}
+
+#info {
+    text-align: center;
+    margin: 10px;
+    font-size: 16px;
+}
