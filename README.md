@@ -19,3 +19,6 @@ An interactive web-based navigation system for Graphic Era University campus bui
 2. Open index.html in your browser
 3. Select source and destination
 4. Click "Find Paths"
+   
+## 🌐 Live Demo
+[Click here to view the live project](https://campus-map-khaki.vercel.app)
